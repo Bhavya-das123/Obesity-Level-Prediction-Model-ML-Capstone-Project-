@@ -91,7 +91,9 @@ Step 3: Run the app
 streamlit run app.py
 
 📁 Project Structure
+
 Obesity-Level-Prediction-Model/
+
 │
 ├── app.py
 ├── obesity_model.sav
@@ -119,6 +121,7 @@ Doctor consultation integration
 👨‍💻 Author
 
 Bhavya Das
+
 Machine Learning Enthusiast
 
 📜 License
